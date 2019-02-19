@@ -45,3 +45,15 @@ E:\Arquivos\DS\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de
 E:\Arquivos\DS\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csproj.GenerateResource.Cache
 E:\Arquivos\DS\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csprojAssemblyReference.cache
 E:\Arquivos\DS\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csproj.CoreCompileInputs.cache
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\bin\Debug\Agenda_de_Compromissos.mdf
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\bin\Debug\Agenda_de_Compromissos_log.ldf
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\bin\Debug\Agenda_de_Compromissos.exe.config
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\bin\Debug\Agenda_de_Compromissos.exe
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\bin\Debug\Agenda_de_Compromissos.pdb
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csprojResolveAssemblyReference.cache
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.FrmPrincipal.resources
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.Properties.Resources.resources
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csproj.GenerateResource.Cache
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.csproj.CoreCompileInputs.cache
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.exe
+D:\Arquivos\Aulas-de-desenvolvimento\Agenda_de_Compromissos\Agenda_de_Compromissos\obj\Debug\Agenda_de_Compromissos.pdb
